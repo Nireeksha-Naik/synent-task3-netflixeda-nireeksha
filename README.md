@@ -75,16 +75,16 @@ Dataset File:
 # 📷 Project Screenshots
 
 ### Movies vs TV Shows Analysis
-![Figure1](Screenshots/Figure1.png)
+
 
 ### Content Release Trend
-![Figure2](Screenshots/Figure2.png)
+![Figure1](Screenshots/Figure1.png)
 
 ### Top Countries Producing Netflix Content
-![Figure3](Screenshots/Figure3.png)
+![Figure2](Screenshots/Figure2.png)
 
 ### Ratings Distribution
-![Figure4](Screenshots/Figure4.png)
+![Figure3](Screenshots/Figure3.png)
 
 ### Movies vs TV Shows Over Time
 ![Figure5](Screenshots/Figure5.png)
